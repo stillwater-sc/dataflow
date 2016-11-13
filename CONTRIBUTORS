@@ -1,0 +1,14 @@
+# People who have agreed to one of the CLAs and can contribute patches.
+# The AUTHORS file lists the copyright holders; this file
+# lists people.  For example, Stillwater employees are listed here
+# but not in AUTHORS, because Stillwater holds the copyright.
+#
+# https://developers.stillwater-sc.com/open-source/cla/individual
+# https://developers.stillwater-sc.com/open-source/cla/corporate
+#
+# Names should be added to this file as:
+#     Name <email address>
+#
+# Please keep the list sorted.
+
+Theodore Omtzigt <theo@stillwater-sc.com>
