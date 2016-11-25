@@ -16,7 +16,7 @@
  *
  * Copyright (c) 2006-2016 E. Theodore L. Omtzigt.  All rights reserved.
  *
- *
+ * Licence      : Stillwater license as defined in this directory
  */
 package types
 
